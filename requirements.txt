@@ -1,0 +1,22 @@
+# requirements.txt
+
+# XML処理
+lxml==4.9.2
+
+# GUIライブラリ
+tkinter  # 通常はPythonに標準で含まれているため、インストール不要
+
+# 並行処理
+concurrent.futures  # Python 3.2以降は標準ライブラリに含まれているため、インストール不要
+
+# ログ
+logging  # Python標準ライブラリ
+
+# ファイル操作
+os  # Python標準ライブラリ
+
+# CSVファイル操作
+csv  # Python標準ライブラリ
+
+# 型ヒント
+typing  # Python 3.5以降は標準ライブラリに含まれているため、インストール不要

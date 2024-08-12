@@ -1,6 +1,6 @@
 import os
 import pytest
-from LoGo_Gpt_Count import parse_xml_data, sort_data_by_timestamp, write_to_csv
+from LoGoGPT-Analyzer import parse_xml_data, sort_data_by_timestamp, write_to_csv
 
 # テスト用のサンプルXMLデータ
 SAMPLE_XML = """<?xml version="1.0" encoding="UTF-8"?>

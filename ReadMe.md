@@ -39,7 +39,7 @@ LogoGPT-Analyzerは、LoGoチャットのXMLログファイルからChatGPTと�
 1. スクリプトを実行します：
 
    ```
-   python LoGo_Gpt_Count.py
+   python LoGo_Gpt_Analyzer.py
    ```
 
 2. フォルダ選択ダイアログが表示されるので、XMLファイルが格納されているフォルダを選択します。

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<talk xmlns="https://ns.direct4b.com/export" version="1" id="1182968854960144384" day="2023-07-14T00:00:00+09:00" timezone="Asia/Tokyo">
+    <name>sample talkroom name</name>
+    <messages>
+        <message id="1449356930903441408">
+            <user id="1443074843376353280">
+                <email>bot+logoai-gpt4-10@logochatbot.jp</email>
+                <name>LoGo AIアシスタント GPT-4</name>
+            </user>
+            <timestamp timezone="Asia/Tokyo">2023-07-14T11:07:00+09:00</timestamp>
+            <content-create-note type="10" note-id="1449356930865692672" revision="1">
+                <title>LoGo AIアシスタント GPT-4の使い方</title>
+                <exported>
+                    <name>1449356930865692672_LoGo_AIアシスタント_GPT-4の使い方.xml</name>
+                </exported>
+            </content-create-note>
+        </message>
+        <message id="1449356933155782656">
+            <user id="1443074843376353280">
+                <email>bot+logoai-gpt4-10@logochatbot.jp</email>
+                <name>LoGo AIアシスタント GPT-4</name>
+            </user>
+            <timestamp timezone="Asia/Tokyo">2023-07-14T11:07:00+09:00</timestamp>
+            <content-text type="1">
+                <text>こんにちは。私はLoGoAIアシスタントボットです。
+質問するときは、「@」でメンションしてください。
+ご利用の前にまずはノートにある機能概要をご確認ください。</text>
+            </content-text>
+        </message>
+        <message id="1449357974895067136">
+            <user id="0000000000000000001">
+                <name>prompter1</name>
+            </user>
+            <timestamp timezone="Asia/Tokyo">2023-07-14T11:11:09+09:00</timestamp>
+            <content-text type="1">
+                <text>{@:ALL,4}@ALL  
+
+本日よりAIアシスタント(GPT-4への質問、回答返信ボット)追加しました。
+よかったら使ってみてください。</text>
+            </content-text>
+        </message>
+        <message id="1449362107395997696">
+            <user id="0000000000000000002">
+                <name>prompter2</name>
+            </user>
+            <timestamp timezone="Asia/Tokyo">2023-07-14T11:27:34+09:00</timestamp>
+            <content-text type="1">
+                <text>{@:1443074843376353280,20}@LoGo AIアシスタント GPT-4 さん 以下の文章を20代から40代の女性が好むインスタグラム用の文章にかわいくアレンジして欲しい。
+
+
+【日常使いにおススメ！９周年を迎えた浜名湖ほとりのパン屋さん】
+鷲津駅から車で4分ほどの『パン屋のぷらてーろ』さんが９周年を迎えました。
+
+お店に入るとマスコットキャラクターのロバのぷらてーろくんがお出迎え。偶数月にはガールフレンドのぷらてーらちゃんがお出迎えしてくれるそうです。
+
+まず目を引いたのがたくさんの食パン。このあたりの飲食店などに届けているそうで、すごくきれいで美味しそうでした。
+残念なことに、浜名湖ファームさんとのコラボ商品「うずらのかれーぱん」やかわいい「キャラぱん」たちは売り切れ。出会えませんでした・・・。
+次回こそはと心に誓い、この日は丁寧に個別包装されたパンの中から「きまぐれピザパン」「ホットドッグ＜サルサソース＞」「レアチーズクリームサンド」を購入。
+どれも食べごたえがある魅力的なパンでした。
+ちなみにお店の人気商品は「コッペパン」とのこと。次は必ず食べようとこれもまた心に誓ったのでした。
+
+浜名湖のほとりにあるぷらてーろさんは、浜名湖サイクリングマップのバイシクルピットでもあるため、週末はサイクリングを楽しむお客さんが、パンを食べながら浜名湖（天気がいいと富士山も！）の景色を楽しむこともよくあるそうです。
+
+タイミングが良ければ、お店からのアイスコーヒーのサービスに出会える、毎日の食事に美味しさと楽しさを添えてくれるパン屋さんをご紹介いたしました。</text>
+            </content-text>
+        </message>
+        <message id="1449362121665019904">
+            <user id="1443074843376353280">
+                <email>bot+logoai-gpt4-10@logochatbot.jp</email>
+                <name>LoGo AIアシスタント GPT-4</name>
+            </user>
+            <timestamp timezone="Asia/Tokyo">2023-07-14T11:27:37+09:00</timestamp>
+            <content-text type="1">
+                <text>質問を受け付けました。ChatGPTから回答が返ってくるまで少々お待ちください。</text>
+            </content-text>
+        </message>
+        <message id="1449362316779847680">
+            <user id="1443074843376353280">
+                <email>bot+logoai-gpt4-10@logochatbot.jp</email>
+                <name>LoGo AIアシスタント GPT-4</name>
+            </user>
+            <timestamp timezone="Asia/Tokyo">2023-07-14T11:28:24+09:00</timestamp>
+            <content-text type="1">
+                <text>9周年のお祝い🎉と一緒に、海辺に佇むパン屋さん🥐『パン屋のぷらてーろ』さんをご紹介💖約4分の快適ドライブ🚗鷲津駅から吹き抜ける風を感じながら足を運ぶと、元気いっぱいなロバのマスコットがニコッと笑顔でお出迎え🎠
+
+お花畑のように広がる 🥖食パン畑🌾目を奪われるその美しさに、見ているだけでお腹がすいてきちゃうかも❣️
+
+ただ、期待していた鳥たち🐣とのコラボパンやキャラぱんたち🍞はお店が閉まる前に完売😢でも心に小さな約束を立て、パンの旅はまだ終わらない💪
+
+「きまぐれピザパン」🍕
+「ホットドッグ（サルサソース）」🌭
+「レアチーズクリームサンド」🧀
+
+選んだパンは皆、味わい深く、魅力的な仕上がり✨そして、人気のコッペパン🥯も今度は必ずゲットするぞ！と心に決めたのでした🤞
+
+また、このパン屋さん🍞は浜名湖サイクリングマップ🗺️のバイシクルピット🚲でもあり、週末は自転車好きな方々が集まり浜名湖の絶景と共に美味しいパンを楽しむ姿が見られるそう💖晴れた日には富士山🗻が見えることも！時には、お店からのアイスコーヒー☕のサービスにも出会えるんですって！
+
+毎日の食事に添えられる、その美味しさと楽しさ、そして海辺の風景まで楽しめるパン屋さん『パン屋のぷらてーろ』さんでの1日をご紹介しました💕
+</text>
+            </content-text>
+        </message>
+        <message id="1449362898412371968">
+            <user id="0000000000000000002">
+                <name>prompter2</name>
+            </user>
+            <timestamp timezone="Asia/Tokyo">2023-07-14T11:30:42+09:00</timestamp>
+            <content-text type="1">
+                <text>{@:1443074843376353280,20}@LoGo AIアシスタント GPT-4 さん  リセットコマンド</text>
+            </content-text>
+        </message>
+        <message id="1449362900018790400">
+            <user id="1443074843376353280">
+                <email>bot+logoai-gpt4-10@logochatbot.jp</email>
+                <name>LoGo AIアシスタント GPT-4</name>
+            </user>
+            <timestamp timezone="Asia/Tokyo">2023-07-14T11:30:43+09:00</timestamp>
+            <content-text type="1">
+                <text>ChatGPTに送信する会話履歴をリセットしました。</text>
+            </content-text>
+        </message>
+        <message id="1449363527012712448">
+            <user id="0000000000000000001">
+                <name>prompter1</name>
+            </user>
+            <timestamp timezone="Asia/Tokyo">2023-07-14T11:33:12+09:00</timestamp>
+            <content-stamp type="2">
+                <stamp set="3" index="1152921507291204295"/>
+                <text>おおむねよさそうですね。
+コッペパンの絵文字がうまく表示できてないかも。</text>
+            </content-stamp>
+        </message>
+        <message id="1449372988779528192">
+            <user id="0000000000000000002">
+                <name>prompter2</name>
+            </user>
+            <timestamp timezone="Asia/Tokyo">2023-07-14T12:10:48+09:00</timestamp>
+            <content-stamp type="2">
+                <stamp set="3" index="1152921507291203574"/>
+            </content-stamp>
+        </message>
+    </messages>
+</talk>
